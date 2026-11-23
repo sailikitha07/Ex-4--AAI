@@ -51,8 +51,7 @@ print(max_likelihood_seq)
 ```
 
 ## Output:
-<img width="285" height="68" alt="image" src="https://github.com/user-attachments/assets/9dbac4c9-4040-426b-b5ed-fbb1d388d606" />
-
+<img width="262" height="78" alt="image" src="https://github.com/user-attachments/assets/643f5aa9-91ed-4752-8e10-e10a93e6e75c" />
 
 ## Result:
 Thus Hidden Markov Model is implemented using python.
